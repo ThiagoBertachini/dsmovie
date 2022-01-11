@@ -6,7 +6,7 @@ function Navbar() {
     return (
         <header>
             <nav className="container">
-                <div className="dsmovie-nav-content">
+                <div>
                     <h1 className="dsmovie-contact-title">DSmovie</h1>
                     <a href="https://github.com/ThiagoBertachini">
                         <div className="dsmovie-contact-container">
