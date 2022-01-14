@@ -1,4 +1,6 @@
-package com.bertachini.dsmovie.entities;
+package com.bertachini.dsmovie.dto;
+
+import com.bertachini.dsmovie.entities.Movie;
 
 public class MovieDTO {
 	

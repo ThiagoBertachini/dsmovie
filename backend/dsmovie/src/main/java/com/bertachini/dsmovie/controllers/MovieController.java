@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.bertachini.dsmovie.entities.MovieDTO;
+import com.bertachini.dsmovie.dto.MovieDTO;
 import com.bertachini.dsmovie.service.MovieService;
 
 @RestController

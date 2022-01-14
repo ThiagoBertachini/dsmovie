@@ -7,8 +7,8 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.bind.annotation.PathVariable;
 
+import com.bertachini.dsmovie.dto.MovieDTO;
 import com.bertachini.dsmovie.entities.Movie;
-import com.bertachini.dsmovie.entities.MovieDTO;
 import com.bertachini.dsmovie.repositories.MovieRepository;
 
 @Service
